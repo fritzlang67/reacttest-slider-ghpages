@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reacttest-slider02/static/css/main.6317dfd9.chunk.css",
-    "main.js": "/reacttest-slider02/static/js/main.fd23f7e0.chunk.js",
-    "main.js.map": "/reacttest-slider02/static/js/main.fd23f7e0.chunk.js.map",
-    "runtime-main.js": "/reacttest-slider02/static/js/runtime-main.f7f4c3d1.js",
-    "runtime-main.js.map": "/reacttest-slider02/static/js/runtime-main.f7f4c3d1.js.map",
-    "static/js/2.e7fad85c.chunk.js": "/reacttest-slider02/static/js/2.e7fad85c.chunk.js",
-    "static/js/2.e7fad85c.chunk.js.map": "/reacttest-slider02/static/js/2.e7fad85c.chunk.js.map",
-    "index.html": "/reacttest-slider02/index.html",
-    "precache-manifest.58fa15fad7309e889e442341c71e5d7d.js": "/reacttest-slider02/precache-manifest.58fa15fad7309e889e442341c71e5d7d.js",
-    "service-worker.js": "/reacttest-slider02/service-worker.js",
-    "static/css/main.6317dfd9.chunk.css.map": "/reacttest-slider02/static/css/main.6317dfd9.chunk.css.map",
-    "static/js/2.e7fad85c.chunk.js.LICENSE.txt": "/reacttest-slider02/static/js/2.e7fad85c.chunk.js.LICENSE.txt"
+    "main.css": "/fritzlang67.github.io/reacttest-slider-ghpages/static/css/main.6317dfd9.chunk.css",
+    "main.js": "/fritzlang67.github.io/reacttest-slider-ghpages/static/js/main.fd23f7e0.chunk.js",
+    "main.js.map": "/fritzlang67.github.io/reacttest-slider-ghpages/static/js/main.fd23f7e0.chunk.js.map",
+    "runtime-main.js": "/fritzlang67.github.io/reacttest-slider-ghpages/static/js/runtime-main.9ec1ea2f.js",
+    "runtime-main.js.map": "/fritzlang67.github.io/reacttest-slider-ghpages/static/js/runtime-main.9ec1ea2f.js.map",
+    "static/js/2.4c5e3a6d.chunk.js": "/fritzlang67.github.io/reacttest-slider-ghpages/static/js/2.4c5e3a6d.chunk.js",
+    "static/js/2.4c5e3a6d.chunk.js.map": "/fritzlang67.github.io/reacttest-slider-ghpages/static/js/2.4c5e3a6d.chunk.js.map",
+    "index.html": "/fritzlang67.github.io/reacttest-slider-ghpages/index.html",
+    "precache-manifest.8d50899d48fc820529eee662fb88dcdc.js": "/fritzlang67.github.io/reacttest-slider-ghpages/precache-manifest.8d50899d48fc820529eee662fb88dcdc.js",
+    "service-worker.js": "/fritzlang67.github.io/reacttest-slider-ghpages/service-worker.js",
+    "static/css/main.6317dfd9.chunk.css.map": "/fritzlang67.github.io/reacttest-slider-ghpages/static/css/main.6317dfd9.chunk.css.map",
+    "static/js/2.4c5e3a6d.chunk.js.LICENSE.txt": "/fritzlang67.github.io/reacttest-slider-ghpages/static/js/2.4c5e3a6d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7f4c3d1.js",
-    "static/js/2.e7fad85c.chunk.js",
+    "static/js/runtime-main.9ec1ea2f.js",
+    "static/js/2.4c5e3a6d.chunk.js",
     "static/css/main.6317dfd9.chunk.css",
     "static/js/main.fd23f7e0.chunk.js"
   ]
